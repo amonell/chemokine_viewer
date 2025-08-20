@@ -6,8 +6,8 @@ import json
 
 # Define paths for all tissue types
 tissue_paths = {
-    "Liver": "/mnt/sata4/Alex_Xenium_Data/20250717__210317__2025_07_17_perturb8_LCMV_run1/Liver/combined/final_object.h5ad",
-    "SI": "/mnt/sata4/Alex_Xenium_Data/20250717__210317__2025_07_17_perturb8_LCMV_run1/SI/combined/guides_assigned.h5ad", 
+    "Liver": "/mnt/sata4/Alex_Xenium_Data/Perturb8/Liver/combined/final_object.h5ad",
+    "SI": "/mnt/sata4/Alex_Xenium_Data/Perturb8/SI/combined/guides_assigned.h5ad", 
     "MC38 tumor": "/mnt/sata1/Xenium_data/20250703__195730__perturb8_tumor_run1/combined/final_object.h5ad"
 }
 
